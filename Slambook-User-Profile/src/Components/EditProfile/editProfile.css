@@ -1,0 +1,21 @@
+.profiledit{
+    height: 80vh;
+    overflow-y: auto;
+}
+
+.form-wrap{
+    width: 80vw;
+}
+.form-wrap .input-wrapper {
+    margin: 2em 0;
+}
+.edit-page{  
+    margin-top: 2rem;
+}
+.pwd-wrapper{
+    width: 80vw;
+    margin: 2em 1em;
+    padding-top: 1rem;
+}
+
+
