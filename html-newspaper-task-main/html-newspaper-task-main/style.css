@@ -1,0 +1,236 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+.heading h1{
+  font-size: 98px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  width: 100%;
+}
+
+.banner{
+  
+  height: 20px;
+  background-color:#35939d;
+  width: 16%;
+
+}
+
+.banner-text{
+  text-align: center;
+  font-size: 15px;
+  color:#fff;
+  margin-top: 0px;
+  font-family: "Times New Roman", Times, serif;
+ 
+}
+.banner1{
+  
+  height: 20px;
+  background-color:#00b1cf;
+  width: 20%;
+
+}
+
+.banner1-text{
+  text-align: left;
+  font-size: 15px;
+  color:#fff;
+  margin-top:0px;
+  font-family: "Times New Roman", Times, serif;
+ 
+}
+.banner2{
+  
+  height: 20px;
+  background-color:#00b1cf;
+  width: 38%;
+
+}
+
+.banner2-text{
+  text-align: center;
+  font-size: 15px;
+  color:#fff;
+  margin-top: -2px;
+  font-family: "Times New Roman", Times, serif;
+}
+.banner3{
+  
+  height: 20px;
+  background-color:#00b1cf;
+  width: 24%;
+
+}
+
+.banner3-text{
+  text-align: right;
+  font-size: 15px;
+  color:#fff;
+  margin-top: 0px;
+  font-family: "Times New Roman", Times, serif;
+ 
+}   
+.box{
+ 
+  width: 100%;
+  margin-top: 25px;
+  background-color: #dce0e9;
+  margin-bottom: 15px;
+  
+}
+
+
+
+
+.number-img{
+  width: 25%;
+}
+.side-img{
+  width: 72%;
+}
+.text-1{
+  font-size: 16px;
+  
+  margin-left: 22px;
+  margin-top: 5px;
+  font-weight: 700; 
+}
+
+.vertical-text{
+  writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-transform: uppercase;
+    font-size: 17px;
+    margin-top: 19px;
+    margin-left: 0px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.nextline{
+  word-wrap: break-word;
+}
+.vertical-text1{
+  writing-mode: vertical-rl;
+    transform: rotate(
+180deg
+);
+    text-transform: uppercase;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 7px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box2{
+  height: 420px;
+  width: 100%;
+  margin-top: 15px;
+  background-color: #fdf4eb;
+  border-radius: 2px;
+  border:1px solid #d9d4d0;
+}
+.heading-2{
+  font-weight:600;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 40px;
+ 
+}
+.para-1{
+  padding: 10px;
+}
+.bold-text{
+  font-weight: bold;
+}
+.visa-heading{
+  font-weight:600;
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 25px;
+  margin-top: 15px;
+}
+.card-img-blue{
+  margin-top: 15px;
+  width: 100%;
+  margin-left: -12px;
+  
+}
+
+
+
+
+.main-heading{
+font-size: 81px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.box-next-line{
+ 
+  width: 100%;
+ 
+  margin-bottom: 22px;
+  background-color: #dce0e9;
+}
+.par-4{
+  column-count: 3;
+  
+  
+        
+}
+.trump-img {
+ 
+  width: 85%;
+  
+  margin-top: 7px;
+  
+  margin-right: 14px;
+  
+  
+}
+.box3{
+  height: 420px;
+  width: 100%;
+  margin-top: 15px;
+  background-color: #fdf4eb;
+  border-radius: 2px;
+  border:1px solid #d9d4d0; 
+}
+.sub-heading{
+  font-size: 30px;
+  text-transform: capitalize;
+  margin-left: 66px;
+}
+
+.bar-code-img{
+  width: 100%;
+ 
+}
